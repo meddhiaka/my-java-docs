@@ -2,7 +2,7 @@
 
 ## <b> 1. The Idea </b>
 
-The idea of this repository to share what I'm learning to **everyone**.
+The idea of this repository is to share what I'm learning to **everyone**.
 
 ### I'm discovering the main concepts such as:
 
@@ -30,4 +30,4 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 <br><br>
 
-## <b> BIG Thankiess X_X </b> for seeing/interacting with this project, Consider giving a star/forking/Making a Pull Request a big effort from you.
+## <b> BIG Thankiess X_X </b> for seeing/interacting with this project, Consider giving a star/forking/Making a Pull Request as a big effort from you.
